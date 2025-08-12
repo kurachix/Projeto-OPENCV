@@ -8,6 +8,9 @@ Este arquivo README contém um resumo das bibliotecas mais utilizadas em Python,
 
 ### Selenium e PyAutoGUI
 
+![SELENIUM](https://media.licdn.com/dms/image/v2/C4D12AQHpfEQB3bNaGQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1647475357298?e=2147483647&v=beta&t=6KqUa3xWPM3fb3gyd6yVvhVW7pCZVxHoKLCs4U4iIEQ)
+![PYAUTOGUI]((image.png))
+
   - **Selenium**: Uma biblioteca focada na automação e otimização de navegadores web. Permite realizar tarefas de forma flexível e prática.
   - **PyAutoGUI**: Biblioteca para automação de tarefas gráficas no computador, ideal para simular interações como cliques e digitação.
 
@@ -177,13 +180,32 @@ Biblioteca especializada para análise de dados, oferecendo estruturas poderosas
 
 -----
 
-### Matplotlib e Seaborn
+Opa, claro! Vamos simplificar o conteúdo.
+
+---
+
+### Matplotlib e Seaborn: Visualização de Dados em Python
+
+**Matplotlib** e **Seaborn** são bibliotecas Python essenciais para criar gráficos. Elas ajudam a entender e interpretar dados complexos, transformando números em representações visuais claras.
+
+O **Seaborn** é uma extensão do **Matplotlib**, o que significa que ele usa as funcionalidades do Matplotlib, mas de uma forma mais simples e com uma estética melhor.
 
 #### Diferenças Principais
 
-  - **Matplotlib**: Oferece **controle total** sobre a visualização, mas pode ser mais complexo.
-  - **Seaborn**: Focado na **estética e praticidade**, gera gráficos mais bonitos e informativos com menos código.
+* **Matplotlib:** É como uma tela em branco. É mais complexo de usar, mas te dá **controle total** para criar qualquer tipo de gráfico, seja ele simples ou muito detalhado.
+* **Seaborn:** É mais fácil de usar. Ele foca na **praticidade e na estética**, criando visualizações de dados mais bonitas e prontas com menos código.
 
+#### Como eles funcionam juntos?
+
+Ambas as bibliotecas funcionam muito bem com **NumPy** e **Pandas**, processando dados dessas bibliotecas para criar gráficos. É possível usar as duas juntas: o **Seaborn** para criar gráficos rapidamente e o **Matplotlib** para fazer ajustes finos.
+
+#### Curiosidades
+
+* O Matplotlib foi criado por um neurocientista.
+* As bibliotecas são amplamente usadas na ciência de dados.
+* A primeira imagem de um buraco negro foi processada e visualizada com ferramentas similares.
+
+Em resumo, **Matplotlib** oferece controle total, enquanto **Seaborn** oferece facilidade e uma aparência mais profissional.
 -----
 
 A formatação acima usa tabelas para os prós e contras, quebrando o texto em partes menores e mais fáceis de escanear. Usei títulos e subtítulos para organizar as seções e blocos de código para as instalações, o que melhora a clareza.
