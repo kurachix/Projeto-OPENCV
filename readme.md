@@ -8,7 +8,7 @@ Este arquivo README contém um resumo das bibliotecas mais utilizadas em Python,
 
 ### Selenium e PyAutoGUI
 
-![SELENIUM]((image-2.png))
+![SELENIUM]((![alt text](image-3.png))
 
   - **Selenium**: Uma biblioteca focada na automação e otimização de navegadores web. Permite realizar tarefas de forma flexível e prática.
   - **PyAutoGUI**: Biblioteca para automação de tarefas gráficas no computador, ideal para simular interações como cliques e digitação.
