@@ -8,8 +8,7 @@ Este arquivo README contém um resumo das bibliotecas mais utilizadas em Python,
 
 ### Selenium e PyAutoGUI
 
-<img src="https://private-user-images.githubusercontent.com/196783530/477210062-5b15959a-c223-4624-a0e3-4e320db3f2ea.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMjMwNDYsIm5iZiI6MTc1NTAyMjc0NiwicGF0aCI6Ii8xOTY3ODM1MzAvNDc3MjEwMDYyLTViMTU5NTlhLWMyMjMtNDYyNC1hMGUzLTRlMzIwZGIzZjJlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxMlQxODE5MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ODMzMzc0OTA0NzgxMTQzMzZkNWFjZTRiZTM4ZjgzOTZmNDEyMzM4NzY2ZDI1ZGU3ZTc0NDllODg5MjBhMGU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.i3hZl1aSd7T4BCD5pGfOS3j-d0U-1APd2Wfm6EhLotE">
-(image-3.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5b15959a-c223-4624-a0e3-4e320db3f2ea" />
 
   - **Selenium**: Uma biblioteca focada na automação e otimização de navegadores web. Permite realizar tarefas de forma flexível e prática.
   - **PyAutoGUI**: Biblioteca para automação de tarefas gráficas no computador, ideal para simular interações como cliques e digitação.
@@ -69,7 +68,8 @@ pip install pyautogui
 
 ### Tkinter e PyQt
 
-(image-4.png)
+<img width="632" height="359" alt="Image" src="https://github.com/user-attachments/assets/69079217-0558-45c3-99c5-53fb42de8b44" />
+
 
   - **Tkinter**: Biblioteca padrão do Python para criar interfaces gráficas. Ideal para iniciantes e projetos simples.
   - **PyQt**: Binding em Python para a biblioteca Qt (C++), usada para criar interfaces gráficas sofisticadas e profissionais.
@@ -110,7 +110,7 @@ Binding para a biblioteca Qt. Permite criar interfaces modernas e profissionais,
 
 ### Pygame
 
-(image-5.png)
+<img width="1561" height="438" alt="Image" src="https://github.com/user-attachments/assets/5e22cef3-4420-4ed8-85c1-540a33cbf261" />
 
 Biblioteca com diversos módulos para a criação de jogos 2D. Foi criada em 2000 por Pete Shinners.
 
@@ -149,7 +149,7 @@ pip uninstall pygame
 
 ### NumPy, Pandas, Matplotlib e Seaborn
 
-(image-6.png)
+<img width="717" height="280" alt="image" src="https://github.com/user-attachments/assets/051995f2-7804-4e0a-a91b-657bf56eab45" />
 
   - **NumPy**: Biblioteca fundamental para computação numérica e arrays multidimensionais.
   - **Pandas**: Biblioteca construída sobre o NumPy, especializada em manipulação e análise de dados tabulares (estruturas como **Series** e **DataFrame**).
@@ -185,8 +185,6 @@ Biblioteca especializada para análise de dados, oferecendo estruturas poderosas
 | Fácil integração com outras bibliotecas | |
 
 -----
-
-Opa, claro! Vamos simplificar o conteúdo.
 
 ---
 
