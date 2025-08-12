@@ -8,7 +8,7 @@ Este arquivo README contém um resumo das bibliotecas mais utilizadas em Python,
 
 ### Selenium e PyAutoGUI
 
-![SELENIUM]((![alt text](image-3.png))
+(image-3.png)
 
   - **Selenium**: Uma biblioteca focada na automação e otimização de navegadores web. Permite realizar tarefas de forma flexível e prática.
   - **PyAutoGUI**: Biblioteca para automação de tarefas gráficas no computador, ideal para simular interações como cliques e digitação.
@@ -68,6 +68,8 @@ pip install pyautogui
 
 ### Tkinter e PyQt
 
+(image-4.png)
+
   - **Tkinter**: Biblioteca padrão do Python para criar interfaces gráficas. Ideal para iniciantes e projetos simples.
   - **PyQt**: Binding em Python para a biblioteca Qt (C++), usada para criar interfaces gráficas sofisticadas e profissionais.
 
@@ -107,6 +109,8 @@ Binding para a biblioteca Qt. Permite criar interfaces modernas e profissionais,
 
 ### Pygame
 
+(image-5.png)
+
 Biblioteca com diversos módulos para a criação de jogos 2D. Foi criada em 2000 por Pete Shinners.
 
 #### Instalação e Desinstalação
@@ -143,6 +147,8 @@ pip uninstall pygame
 ## Análise e Visualização de Dados
 
 ### NumPy, Pandas, Matplotlib e Seaborn
+
+(image-6.png)
 
   - **NumPy**: Biblioteca fundamental para computação numérica e arrays multidimensionais.
   - **Pandas**: Biblioteca construída sobre o NumPy, especializada em manipulação e análise de dados tabulares (estruturas como **Series** e **DataFrame**).
